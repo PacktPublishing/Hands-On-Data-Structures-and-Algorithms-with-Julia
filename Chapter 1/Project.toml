@@ -1,0 +1,3 @@
+[deps]
+IJulia = "7073ff75-c697-5162-941a-fcdaad2a7d2a"
+UnicodePlots = "b8865327-cd53-5732-bb35-84acbb429228"
